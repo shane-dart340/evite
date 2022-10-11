@@ -1,0 +1,55 @@
+/* Bean's Birthday Party CSS Code */
+
+body {font-family: "georgia", serif;
+       }
+
+h1{text-align: center;
+color:mediumaquamarine;
+    font-size: 40px;
+    font-family: Monaco, Papyrus;
+    font-weight:2000;
+
+}
+
+h2{font-size:26px;}
+ 
+.rsvp {color:darkslateblue;
+font-family:"georgia";
+font-size:22px;}
+
+table { 
+padding:5px;
+margin:auto;}
+
+a:hover {color:cornflowerblue;}
+
+a{font-family: cursive;
+font-weight: 600;
+font-size: 25px;}
+
+/* js animation background color (178,215,252)*/
+#txt {background-color:lightblue;
+      width:1000px;
+      height:950px;
+      overflow: hidden;
+    text-align: center;
+    margin:1px auto; 
+   border: 15px ridge cyan;
+    padding: 20px;
+    content: 50px;
+      }
+
+/* Gift registry, towards Barnes&Noble / Panera Bread gift cards for Beann */
+.benihana {color:darkslateblue;
+    font-family: Copperplate;}
+
+h3{color:teal;}
+        
+canvas { 
+    display: block;
+    margin:auto;
+    position:relative;
+    top: -700px;
+   
+    
+}    
